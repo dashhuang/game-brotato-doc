@@ -166,6 +166,8 @@
 | # | 道具名 | 等级 | 效果 | 代价 | 价格 | 限制 | 解锁 | Wiki链接 |
 |---|--------|------|------|------|------|------|------|----------|
 | 20 | **炒饭**<br>Fried Rice | T2 | 每个燃烧敌人+1生命恢复 | 无 | **60** | 唯一 | - | [Link](https://brotato.wiki.spellsandguns.com/Fried_Rice) |
+| 21 | **羽毛**<br>Feather | ❓ | +1远程伤害，+3%闪避 | -3%经验获取 | ❓ | - | - | [Link](https://brotato.wiki.spellsandguns.com/Feather) |
+| 22 | **雕像**<br>Statue | ❓ | 站立时攻速+40% | -10%移速 | ❓ | - | - | [Link](https://brotato.wiki.spellsandguns.com/Statue) |
 
 ---
 
